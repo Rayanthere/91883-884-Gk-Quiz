@@ -155,7 +155,7 @@ while r>0:
     
             
 
-#Presenting the scores to the users.
+#This last part shows your total of the quiz and the percentage of the quiz.
 print("========================================================================")
 print("You have succesfully completed Rayan's General Knowledge quiz!")
 print("Have any problems please contact this mail 19478@students.mrgs.school.nz")
